@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Patilmohit13
+- 👋 Hi, I’m Mohit Patil
 - 👀 I’m interested in Java Programming 
 - 🌱 I’m currently learning Java Developement
 - 💞️ I’m looking to collaborate on Instagram and linkedin
